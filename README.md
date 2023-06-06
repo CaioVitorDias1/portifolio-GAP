@@ -12,6 +12,13 @@
 
 </div>
 
+<div align="center">
+
+![image](https://github.com/CaioVitorDias1/portifolio-GAP/assets/79228873/86a85530-3e32-416e-868c-596ebbf6ca15)
+
+
+</div>
+
 ## Resumo e objetivo
 Esse projeto foi desenvolvido em parceria com a empresa Pro4Tech.
 
@@ -35,21 +42,24 @@ Desta maneira, efetuei tarefas de gestão de equipe, arquitetura de software, co
 
 ## Aprendizado
 ### HardSkills adquiridas
-- Ampla familiaridade com tecnoligias:
-1. Java;
-2. SpringBoot;
-- Boa familiaridade com tecnologias:
-1. React;
-2. Typescript;
-3. Javascript;
-4. Github;
-- Familiaridade com ferramentas:
-1. Jira;
-2. Figma;
-3. Slack;
-- Conhecimento prático e teórico sobre:
-1. Conceitos e aplicação de segurança de software;
-2. Versionamento de código e projeto;
+1. Ampla familiaridade com tecnoligias:
+- Java;
+- SpringBoot;
+
+2. Boa familiaridade com tecnologias:
+- React;
+- Typescript;
+- Javascript;
+- Github;
+
+3. Familiaridade com ferramentas:
+- Jira;
+- Figma;
+- Slack;
+
+4. Conhecimento prático e teórico sobre:
+- Conceitos e aplicação de segurança de software;
+- Versionamento de código e projeto;
 
 ### SoftSkills adquiridas
 - Gestão de equipe:
