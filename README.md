@@ -1,6 +1,5 @@
 
 
-# Sobre mim
 <div align="center">
   
 # Projetos
@@ -37,6 +36,8 @@ Durante o desenvolvimento também foram criados BPMNs para melhor descrever o fl
 Pela primeira vez atuei em todas as áreas do projeto, tendo exercido, no decorrer das sprints, os papeis de master, PO, dev back-end e dev front-end.
 
 Na primeira sprint, como master, fiquei responsável pela gestão da equipe, bem como, suporte para elaborar a arquitetura inicial do sistema. A partir da 2° sprint passei a exercer o papel de PO, continuei envolvido com a arquitetura do sistema e tive contato direto com o cliente. As função de back e front foram exercidas durante todas as sprints conforme houve necessidade.
+Por conta disto, evoluí grandemente em relação a softskills, principalmente em proatividade, autonomia, entrega de resultados e 
+colaboração.
 
 Desta maneira, efetuei tarefas de gestão de equipe, arquitetura de software, comunicação com o cliente, variados tipos de documentações (documentação do projeto, BPMN e etc) e desenvolvi diversas partes da lógica do sistema como: CRUDs, lógica de algumas funcionalidades, aplicação de segurança com autenticação e autorização com JWT (back e front), funcionamento de algumas telas e funcionalidades no front-end e a integração com o back-end.
 
